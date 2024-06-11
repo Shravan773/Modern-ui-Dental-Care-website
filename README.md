@@ -1,8 +1,8 @@
-# Modern Dental Website Template
+# Modern Dental Website
 
 ![Home Page Screenshot](./screenshot.png)
 
-This project is a modern dental website template that includes all the modern CSS features such as dark mode and a booking appointment functionality.
+This project is a modern dental website  that includes all the modern CSS features such as dark mode and a booking appointment functionality.
 
 ## Features
 
